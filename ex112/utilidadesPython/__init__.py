@@ -1,0 +1,1 @@
+from ex112.utilidadesPython import moeda, dado
